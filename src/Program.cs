@@ -9,3 +9,7 @@ BrandUser = Console.ReadLine();
 Console.Write("Modèle : ");
 ModelUser = Console.ReadLine();
 Console.WriteLine($"La voiture a pour Marque {BrandUser} et pour modèle {ModelUser}");
+
+Car myCar = new Car(BrandUser, ModelUser);
+string myCarString = myCar.ToString();
+Console.WriteLine(myCarString);
