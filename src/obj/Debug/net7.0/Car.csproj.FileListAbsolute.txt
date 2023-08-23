@@ -1,0 +1,15 @@
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\bin\Debug\net7.0\Car.exe
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\bin\Debug\net7.0\Car.deps.json
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\bin\Debug\net7.0\Car.runtimeconfig.json
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\bin\Debug\net7.0\Car.dll
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\bin\Debug\net7.0\Car.pdb
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.csproj.AssemblyReference.cache
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.AssemblyInfoInputs.cache
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.AssemblyInfo.cs
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.csproj.CoreCompileInputs.cache
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.dll
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\refint\Car.dll
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.pdb
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\Car.genruntimeconfig.cache
+C:\Users\CRAVO David\OneDrive\Documents\GitHub\tp-git-a-deux-revision\src\obj\Debug\net7.0\ref\Car.dll
