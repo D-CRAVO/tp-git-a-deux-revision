@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CRAVO David\\OneDrive\\Documents\\GitHub\\tp-git-a-deux-revision\\src\\src.csproj",
-      "projectName": "src",
-      "projectPath": "C:\\Users\\CRAVO David\\OneDrive\\Documents\\GitHub\\tp-git-a-deux-revision\\src\\src.csproj",
+      "projectUniqueName": "C:\\Users\\CRAVO David\\OneDrive\\Documents\\GitHub\\tp-git-a-deux-revision\\src\\Car.csproj",
+      "projectName": "Car",
+      "projectPath": "C:\\Users\\CRAVO David\\OneDrive\\Documents\\GitHub\\tp-git-a-deux-revision\\src\\Car.csproj",
       "packagesPath": "C:\\Users\\CRAVO David\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\CRAVO David\\OneDrive\\Documents\\GitHub\\tp-git-a-deux-revision\\src\\obj\\",
       "projectStyle": "PackageReference",
