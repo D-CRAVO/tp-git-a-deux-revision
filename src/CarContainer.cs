@@ -7,6 +7,11 @@ public class CarContainer
         myCarList = new List<Car>();
     }
 
+    public List<Car> AddCar(Car car){
+        myCarList.Add(car);
+        return myCarList;
+    }
+
     public override string ToString()
     {
         string myCarListString = "";

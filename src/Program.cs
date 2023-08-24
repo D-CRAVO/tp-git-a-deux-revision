@@ -11,5 +11,9 @@ ModelUser = Console.ReadLine();
 Console.WriteLine($"La voiture a pour Marque {BrandUser} et pour modèle {ModelUser}");
 
 Car myCar = new Car(BrandUser, ModelUser);
-string myCarString = myCar.ToString();
-Console.WriteLine(myCarString);
+
+Console.WriteLine(myCar.ToString());
+
+CarContainer carContainer = new CarContainer();
+carContainer.AddCar(myCar);
+Console.WriteLine(carContainer.ToString());

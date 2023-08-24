@@ -8,6 +8,6 @@ public class Car{
     }
 
     public override string ToString(){
-        return $"The car have for brand {Brand} and his model is {Model}";
+        return $"La voiture a pour marque {Brand} et pour modèle {Model}";
     }
 }
