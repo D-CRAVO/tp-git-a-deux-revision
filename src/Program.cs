@@ -13,3 +13,7 @@ Console.WriteLine($"La voiture a pour Marque {BrandUser} et pour modèle {ModelU
 Car myCar = new Car(BrandUser, ModelUser);
 string myCarString = myCar.ToString();
 Console.WriteLine(myCarString);
+
+CarContainer carContainer = new CarContainer();
+carContainer.AddCar(myCar);
+Console.WriteLine(carContainer.ToString());
