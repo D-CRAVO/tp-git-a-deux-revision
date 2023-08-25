@@ -4,6 +4,13 @@ string? BrandUser;
 string? ModelUser;
 CarContainer carContainer = new CarContainer();
 
+Car car1 = new Car("Seat", "Leon");
+carContainer.AddCar(car1);
+Car car2 = new Car("Seat", "Cordoba");
+carContainer.AddCar(car2);
+Car car3 = new Car("Renault", "Kangoo");
+carContainer.AddCar(car3);
+
 do 
 {
     Console.WriteLine("Veuillez saisir la Marque et le Modèle de la voiture.");
